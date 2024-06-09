@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\bin\Debug\net8.0-windows\projeto parâmetro por valor e por referência.exe
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\bin\Debug\net8.0-windows\projeto parâmetro por valor e por referência.deps.json
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\bin\Debug\net8.0-windows\projeto parâmetro por valor e por referência.runtimeconfig.json
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\bin\Debug\net8.0-windows\projeto parâmetro por valor e por referência.dll
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\bin\Debug\net8.0-windows\projeto parâmetro por valor e por referência.pdb
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto_parâmetro_por_valor_e_por_referência.Form1.resources
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.AssemblyInfo.cs
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.dll
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\refint\projeto parâmetro por valor e por referência.dll
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.pdb
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\projeto parâmetro por valor e por referência.genruntimeconfig.cache
+C:\Users\robso\source\repos\projeto parâmetro por valor e por referência\obj\Debug\net8.0-windows\ref\projeto parâmetro por valor e por referência.dll

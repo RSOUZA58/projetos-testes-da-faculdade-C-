@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido_pizzaria.Form1.resources
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.AssemblyInfo.cs
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\pedido pizzaria\bin\Debug\net8.0-windows\pedido pizzaria.exe
+C:\Users\robso\source\repos\pedido pizzaria\bin\Debug\net8.0-windows\pedido pizzaria.deps.json
+C:\Users\robso\source\repos\pedido pizzaria\bin\Debug\net8.0-windows\pedido pizzaria.runtimeconfig.json
+C:\Users\robso\source\repos\pedido pizzaria\bin\Debug\net8.0-windows\pedido pizzaria.dll
+C:\Users\robso\source\repos\pedido pizzaria\bin\Debug\net8.0-windows\pedido pizzaria.pdb
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.dll
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\refint\pedido pizzaria.dll
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.pdb
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\pedido pizzaria.genruntimeconfig.cache
+C:\Users\robso\source\repos\pedido pizzaria\obj\Debug\net8.0-windows\ref\pedido pizzaria.dll
