@@ -1,0 +1,23 @@
+C:\Users\robso\source\repos\interface de soma\bin\Debug\net8.0-windows\interface de soma.exe
+C:\Users\robso\source\repos\interface de soma\bin\Debug\net8.0-windows\interface de soma.deps.json
+C:\Users\robso\source\repos\interface de soma\bin\Debug\net8.0-windows\interface de soma.runtimeconfig.json
+C:\Users\robso\source\repos\interface de soma\bin\Debug\net8.0-windows\interface de soma.dll
+C:\Users\robso\source\repos\interface de soma\bin\Debug\net8.0-windows\interface de soma.pdb
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.frmSoma.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.Form2.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.Form3.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.Form4.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.Form5.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.UserControl1.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.UserControl2.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface_de_soma.UserControl3.resources
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.AssemblyInfo.cs
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.dll
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\refint\interface de soma.dll
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.pdb
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\interface de soma.genruntimeconfig.cache
+C:\Users\robso\source\repos\interface de soma\obj\Debug\net8.0-windows\ref\interface de soma.dll

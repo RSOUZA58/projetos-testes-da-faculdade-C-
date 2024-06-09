@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\estrutura de repetição\bin\Debug\net8.0-windows\estrutura de repetição.exe
+C:\Users\robso\source\repos\estrutura de repetição\bin\Debug\net8.0-windows\estrutura de repetição.deps.json
+C:\Users\robso\source\repos\estrutura de repetição\bin\Debug\net8.0-windows\estrutura de repetição.runtimeconfig.json
+C:\Users\robso\source\repos\estrutura de repetição\bin\Debug\net8.0-windows\estrutura de repetição.dll
+C:\Users\robso\source\repos\estrutura de repetição\bin\Debug\net8.0-windows\estrutura de repetição.pdb
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura_de_repetição.Form1.resources
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.AssemblyInfo.cs
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.dll
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\refint\estrutura de repetição.dll
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.pdb
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\estrutura de repetição.genruntimeconfig.cache
+C:\Users\robso\source\repos\estrutura de repetição\obj\Debug\net8.0-windows\ref\estrutura de repetição.dll
