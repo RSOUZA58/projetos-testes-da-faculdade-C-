@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "somar pares (estrutura de repetição/1.0.0": {
+        "runtime": {
+          "somar pares (estrutura de repetição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "somar pares (estrutura de repetição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

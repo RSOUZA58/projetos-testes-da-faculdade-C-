@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\projeto verifica maior numero\bin\Debug\net8.0-windows\projeto verifica maior numero.exe
+C:\Users\robso\source\repos\projeto verifica maior numero\bin\Debug\net8.0-windows\projeto verifica maior numero.deps.json
+C:\Users\robso\source\repos\projeto verifica maior numero\bin\Debug\net8.0-windows\projeto verifica maior numero.runtimeconfig.json
+C:\Users\robso\source\repos\projeto verifica maior numero\bin\Debug\net8.0-windows\projeto verifica maior numero.dll
+C:\Users\robso\source\repos\projeto verifica maior numero\bin\Debug\net8.0-windows\projeto verifica maior numero.pdb
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto_verifica_maior_numero.Form1.resources
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.AssemblyInfo.cs
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.dll
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\refint\projeto verifica maior numero.dll
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.pdb
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\projeto verifica maior numero.genruntimeconfig.cache
+C:\Users\robso\source\repos\projeto verifica maior numero\obj\Debug\net8.0-windows\ref\projeto verifica maior numero.dll
