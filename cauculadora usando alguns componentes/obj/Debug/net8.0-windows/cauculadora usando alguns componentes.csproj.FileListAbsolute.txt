@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\bin\Debug\net8.0-windows\cauculadora usando alguns componentes.exe
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\bin\Debug\net8.0-windows\cauculadora usando alguns componentes.deps.json
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\bin\Debug\net8.0-windows\cauculadora usando alguns componentes.runtimeconfig.json
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\bin\Debug\net8.0-windows\cauculadora usando alguns componentes.dll
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\bin\Debug\net8.0-windows\cauculadora usando alguns componentes.pdb
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora_usando_alguns_componentes.Form1.resources
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.AssemblyInfo.cs
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.dll
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\refint\cauculadora usando alguns componentes.dll
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.pdb
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\cauculadora usando alguns componentes.genruntimeconfig.cache
+C:\Users\robso\source\repos\cauculadora usando alguns componentes\obj\Debug\net8.0-windows\ref\cauculadora usando alguns componentes.dll

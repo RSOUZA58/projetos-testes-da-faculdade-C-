@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\dias da semana\bin\Debug\net8.0-windows\dias da semana.exe
+C:\Users\robso\source\repos\dias da semana\bin\Debug\net8.0-windows\dias da semana.deps.json
+C:\Users\robso\source\repos\dias da semana\bin\Debug\net8.0-windows\dias da semana.runtimeconfig.json
+C:\Users\robso\source\repos\dias da semana\bin\Debug\net8.0-windows\dias da semana.dll
+C:\Users\robso\source\repos\dias da semana\bin\Debug\net8.0-windows\dias da semana.pdb
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias_da_semana.Form1.resources
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.AssemblyInfo.cs
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.dll
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\refint\dias da semana.dll
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.pdb
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\dias da semana.genruntimeconfig.cache
+C:\Users\robso\source\repos\dias da semana\obj\Debug\net8.0-windows\ref\dias da semana.dll
