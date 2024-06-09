@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mostrando animais com patas/1.0.0": {
+        "runtime": {
+          "mostrando animais com patas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mostrando animais com patas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

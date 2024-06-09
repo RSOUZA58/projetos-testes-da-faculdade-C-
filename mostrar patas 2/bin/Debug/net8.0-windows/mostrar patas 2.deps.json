@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mostrar patas 2/1.0.0": {
+        "runtime": {
+          "mostrar patas 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mostrar patas 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

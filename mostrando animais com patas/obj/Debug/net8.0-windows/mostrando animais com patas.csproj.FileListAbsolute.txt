@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\mostrando animais com patas\bin\Debug\net8.0-windows\mostrando animais com patas.exe
+C:\Users\robso\source\repos\mostrando animais com patas\bin\Debug\net8.0-windows\mostrando animais com patas.deps.json
+C:\Users\robso\source\repos\mostrando animais com patas\bin\Debug\net8.0-windows\mostrando animais com patas.runtimeconfig.json
+C:\Users\robso\source\repos\mostrando animais com patas\bin\Debug\net8.0-windows\mostrando animais com patas.dll
+C:\Users\robso\source\repos\mostrando animais com patas\bin\Debug\net8.0-windows\mostrando animais com patas.pdb
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando_animais_com_patas.Form1.resources
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.AssemblyInfo.cs
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.dll
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\refint\mostrando animais com patas.dll
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.pdb
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\mostrando animais com patas.genruntimeconfig.cache
+C:\Users\robso\source\repos\mostrando animais com patas\obj\Debug\net8.0-windows\ref\mostrando animais com patas.dll
