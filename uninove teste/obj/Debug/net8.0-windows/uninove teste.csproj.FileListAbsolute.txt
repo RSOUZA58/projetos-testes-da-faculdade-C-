@@ -1,0 +1,17 @@
+C:\Users\robso\source\repos\uninove teste\bin\Debug\net8.0-windows\uninove teste.exe
+C:\Users\robso\source\repos\uninove teste\bin\Debug\net8.0-windows\uninove teste.deps.json
+C:\Users\robso\source\repos\uninove teste\bin\Debug\net8.0-windows\uninove teste.runtimeconfig.json
+C:\Users\robso\source\repos\uninove teste\bin\Debug\net8.0-windows\uninove teste.dll
+C:\Users\robso\source\repos\uninove teste\bin\Debug\net8.0-windows\uninove teste.pdb
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove_teste.form1.resources
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.AssemblyInfo.cs
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.dll
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\refint\uninove teste.dll
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.pdb
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove teste.genruntimeconfig.cache
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\ref\uninove teste.dll
+C:\Users\robso\source\repos\uninove teste\obj\Debug\net8.0-windows\uninove_teste.Properties.Resources.resources

@@ -1,0 +1,16 @@
+C:\Users\robso\source\repos\teste de vetores\bin\Debug\net8.0-windows\teste de vetores.exe
+C:\Users\robso\source\repos\teste de vetores\bin\Debug\net8.0-windows\teste de vetores.deps.json
+C:\Users\robso\source\repos\teste de vetores\bin\Debug\net8.0-windows\teste de vetores.runtimeconfig.json
+C:\Users\robso\source\repos\teste de vetores\bin\Debug\net8.0-windows\teste de vetores.dll
+C:\Users\robso\source\repos\teste de vetores\bin\Debug\net8.0-windows\teste de vetores.pdb
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste_de_vetores.Form1.resources
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.AssemblyInfoInputs.cache
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.AssemblyInfo.cs
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.dll
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\refint\teste de vetores.dll
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.pdb
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\teste de vetores.genruntimeconfig.cache
+C:\Users\robso\source\repos\teste de vetores\obj\Debug\net8.0-windows\ref\teste de vetores.dll
